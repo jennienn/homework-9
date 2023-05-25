@@ -37,8 +37,8 @@ int main()
 {
 	printf("[----- [김예진]  [2022041035] -----]\n");
 
-	char command; // 입력받은 명령어를 저장하는 변수
-	int key; // 입력받은 키 값을 저장하는 변수
+	char command; /* 입력받은 명령어를 저장하는 변수 */
+	int key; /* 입력받은 키 값을 저장하는 변수 */
 	Node* head = NULL; 
 	Node* ptr = NULL;	/* temp */
 
